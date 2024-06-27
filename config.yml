@@ -1,0 +1,49 @@
+MySQL:
+  Ativado: false
+  Usuario: 'user'
+  Senha: 'pass'
+  Database: 'mito'
+  Host: 'localhost'
+  
+Tag: '&e[MITO] &r'
+MitoAtual: 'TantsZD3US'
+MitoAntigo: 'Grocha'
+  
+Morcegos:
+  Ativar: true
+  Quantidade: 5
+  Tempo: 5
+  Nome: '&e&l⚔ MITO ⚔'
+
+Raios:
+  Ativar: true
+  Quantidade: 3
+  
+Comandos:
+  NovoMito:
+  - 'pex user {novomito} add ragnarok.mito'
+  
+  AntigoMito:
+  - 'pex user {mito} remove ragnarok.mito'
+  
+Top:
+  Quantidade: 10
+  Cabecalho: '&e&lMITO &8» &fTOP 10 jogadores que mais pegaram a tag &eMITO&f:'
+  Linhas: '&6{posicao}. &f{player} &7- &e{vezes} &fvezes.'
+  
+Mensagens:
+  SemPermissao: '&e&lMITO &8» &cVocê não tem permissão para executar esse comando.'
+  UsoIncorreto: '&e&lMITO &8» &cErro! Use: /setmito <player>'
+  JogadorOffline: '&e&lMITO &8» &6{player} &cnão está online no momento.'
+  MitoIgual: '&e&lMITO &8» &6{player} &cjá é atualmente o &eMITO &cdo servidor.'
+  MitoSetado: '&e&lMITO &8» &aVocê definiu &e{player} &acomo o &eMITO &ado servidor.'
+  SemMito: '&e&lMITO &8» &cNinguém está com a tag no momento.'
+  NovoMitoSetado: '&e&lMITO &8» &6{player} &fagora é o novo &eMITO &fdo servidor.'
+  
+  NovoMito:
+  - '&e&lMITO &8» &6{mito} &fmorreu para &6{novomito}&f.'
+  - '&e&lMITO &8» &6{novomito} &fpegou a tag pela &6{quantidade} &fvez.'
+  
+  MitoAtual:
+  - '&e&lMITO &8» &6{mito} &fé o atual &eMITO &fdo servidor.'
+  - '&e&lMITO &8» &fVocê foi o &eMITO &fdo servidor &6{quantidade} &fvezes.'

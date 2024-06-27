@@ -1,0 +1,9 @@
+name: Mito
+version: 1.0
+author: [TantsZ]
+main: me.tantsz.mito.Main
+
+commands:
+    setmito:
+      aliases: [setarmito]
+    mito:
