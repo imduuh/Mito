@@ -4,8 +4,8 @@
 
 # Comandos
 
-**/mito** - Mostra quem atualmente está com a tag, além de informar quantas vezes o jogador que executou o comando pegou a tag MITO.
-**/mito top** - Mostra os jogadores que mais pegaram a tag MITO.
+**/mito** - Mostra quem atualmente está com a tag, além de informar quantas vezes o jogador que executou o comando pegou a tag MITO.<br/>
+**/mito top** - Mostra os jogadores que mais pegaram a tag MITO.<br/>
 **/setmito <player>** - Seta a tag MITO para um(a) jogador(a).
 
 # Permissões
