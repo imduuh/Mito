@@ -70,9 +70,4 @@ public class Commands implements CommandExecutor {
 		}
 		return false;
 	}
-}
-
-				//sender.sendMessage("�e�lMITO �8� �7O �eMITO �7atual do servidor � �6" + this.plugin.getConfig().getString("MitoAtual") + 
-					////	"�7, pegando a TAG �6" + ii + " �7vezes.");
-				//sender.sendMessage("�e�lMITO �8� �7Voc� pegou a tag �6" + i + " �7Vezes.");
-			
+}			
